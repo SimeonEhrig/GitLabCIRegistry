@@ -1,3 +1,3 @@
 name = "GitLabCISub1"
 uuid = "2df81c4e-c6cd-4631-b325-cacad6d6abac"
-repo = "git@github.com:SimeonEhrig/GitLabCISub1.git"
+repo = "https://github.com/SimeonEhrig/GitLabCISub1.git"
