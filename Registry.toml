@@ -4,3 +4,4 @@ repo = "https://github.com/SimeonEhrig/GitLabCIRegistry.git"
 
 [packages]
 2db3c979-7d52-4b64-8d6d-d726b304ac26 = { name = "MonteCarloPI", path = "M/MonteCarloPI" }
+2df81c4e-c6cd-4631-b325-cacad6d6abac = { name = "GitLabCISub1", path = "G/GitLabCISub1" }
