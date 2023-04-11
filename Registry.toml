@@ -1,0 +1,5 @@
+name = "GitLabCITest"
+uuid = "ec6f4f83-44bb-4add-9140-81b2ea6879fc"
+repo = "https://github.com/SimeonEhrig/GitLabCIRegistry.git"
+
+[packages]
