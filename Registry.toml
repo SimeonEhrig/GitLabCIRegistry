@@ -3,5 +3,6 @@ uuid = "ec6f4f83-44bb-4add-9140-81b2ea6879fc"
 repo = "https://github.com/SimeonEhrig/GitLabCIRegistry.git"
 
 [packages]
+0c825e4a-f476-45ea-8667-4d6a1b82536a = { name = "GitLabCISub2", path = "G/GitLabCISub2" }
 2db3c979-7d52-4b64-8d6d-d726b304ac26 = { name = "MonteCarloPI", path = "M/MonteCarloPI" }
 2df81c4e-c6cd-4631-b325-cacad6d6abac = { name = "GitLabCISub1", path = "G/GitLabCISub1" }
